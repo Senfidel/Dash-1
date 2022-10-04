@@ -13,4 +13,5 @@ Planning de la journée :
 
 Cet atelier a été animé par Luc Gilles, Head of Data & Analytics @Korian et Pierre Papelard, Junior Data Scientist @datacraft. 
 
-Vous trouverez ici la vidéo de cette atelier : https://youtu.be/MFg7RGGRNTg
+Vous trouverez ici la vidéo de cet atelier : https://youtu.be/MFg7RGGRNTg
+Vous trouverez ici le workshop de cet atelier : Vous trouverez ici la vidéo de cette atelier : https://youtu.be/MFg7RGGRNTg
