@@ -9,7 +9,7 @@ from dash.dependencies import Output, Input, State
 import plotly.express as px
 
 # Chargement des données
-korian = pd.read_csv("/Users/etienne/Documents/Déploiement/Dash/2207-dash/Evenements_Medicaux_Korian.csv")
+korian = pd.read_csv("/Dash/2207-dash/Evenements_Medicaux_Korian.csv")
 format = '%Y/%m/%d %H:%M:%S.%f'
 korian['TIME_EVENEMENT'] = pd.to_datetime(korian['DATE_EVENEMENT'], errors='coerce', format=format)
 korian['YEAR_EVENEMENT'] = pd.DatetimeIndex(korian['TIME_EVENEMENT']).year
