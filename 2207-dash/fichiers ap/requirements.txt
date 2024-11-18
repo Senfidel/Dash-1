@@ -2,9 +2,5 @@ numpy
 pandas
 dash
 dash-bootstrap-components
-plotly
-jupyter-dash
-openpyxl
 plotly-express
 gunicorn
-dash-tools
